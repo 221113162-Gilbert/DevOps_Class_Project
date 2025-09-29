@@ -6,8 +6,6 @@ tags: ["kubernetes", "code"]
 
 First application on Kubernetes using Kubernetes deployments
 
-<!--more-->
-
 ```sh
 kubectl run kubernetes-bootcamp --image=gcr.io/google-samples/kubernetes-bootcamp:v1 --port=8080
 ```
